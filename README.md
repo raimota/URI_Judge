@@ -1,6 +1,8 @@
 # URI_Judge
 Exercícios Tirados do URI_Judge
 
+ESPERAR O TERMINAL FICAR SEM NADA ESCRITO DAÍ PODE COLOCAR ÀS INFORMAÇÕES 
+
 
 veja Area-Tri-Tra-circ-qua-ret funcionando em https://replit.com/@Rmt/Area-Tri-Tra-circ-qua-ret#main.py
 
